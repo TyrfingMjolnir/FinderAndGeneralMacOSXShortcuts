@@ -18,12 +18,12 @@ Finder and general MacOS X shortcuts
 | ⇧ ⌘ R                | Airdrop             | ⌘ + Y                 | Quicklook selection       |
 | ⇧ ⌘ K                | Network             | ^ ⌥ ⌘ A               | Show original             |
 | ⇧ ⌘ I                | iCloud              | ^ ⌘ T                 | Add to sidebar            |
-| ⇧ ⌘ A                | Applications        | ⌘ + E                 | Eject                     |
-| ⇧ ⌘ U                | Utilities           | ⌘ + F                 | Find                      |
-| ⇧ ⌘ G                | Go to folder ...    | ⌘ + 1                 | View as icons             |
-| ⌥ ⌘ D                | Toggle dock         | ⌘ + 2                 | View as list              |
-| ⌘ K                  | Connect ...         | ⌘ + 3                 | View as columns           |
-| ⇧ ⌘ 3                | Save screenshot     | ⌘ + 4                 | View as gallery           |
+| ⇧ ⌘ A                | Applications        | ⌘ E                   | Eject                     |
+| ⇧ ⌘ U                | Utilities           | ⌘ F                   | Find                      |
+| ⇧ ⌘ G                | Go to folder ...    | ⌘ 1                   | View as icons             |
+| ⌥ ⌘ D                | Toggle dock         | ⌘ 2                   | View as list              |
+| ⌘ K                  | Connect ...         | ⌘ 3                   | View as columns           |
+| ⇧ ⌘ 3                | Save screenshot     | ⌘ 4                   | View as gallery           |
 | ⌥ ⇧ ⌘ 3              | Put ss on clipboard | ⌥ ⌘ S                 | Hide sidebar              |
 | ⇧ ⌘ 4                | Save selection screenshot | ⌥ ⌘ T           | Hide toolbar              |
 | ⇧ ⌘ 4 then space     | Save window ss      | ⇧ ⌘ P                 | Show preview              |
