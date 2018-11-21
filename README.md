@@ -39,7 +39,8 @@ Finder and general MacOS X shortcuts
 | ^ ⌥ ⌘ 6              | Sort by Size        |
 | ^ ⌥ ⌘ 7              | Sort by Tags        |
 
-I usually remap
+#I usually remap
+
 | Apple original             | My tweak              |
 | :------------------------- | :-------------------- |
 | ⌘ space                    | ⌥ d                   |
