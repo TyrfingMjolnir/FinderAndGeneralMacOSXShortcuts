@@ -1,9 +1,11 @@
 # FinderAndGeneralMacOSXShortcuts
 Finder and general MacOS X shortcuts
 
-| Shortcut        | Does          |
-| :------------- | :------------- |
+| Shortcut              | Does |
+| :-------------------- | :------------- |
 | CMD + O               | Open selection |
+| CMD + [               | Back |
+| CMD + ]               | Forward |
 | CMD + Arrow down      | open file or folder |
 | CMD + Arrow up        | Go to parent folder |
 | Arrow right           | open folder |
