@@ -40,7 +40,8 @@ Finder and general MacOS X shortcuts
 | ^ ⌥ ⌘ 7              | Sort by Tags        |
 
 ## I usually remap
+My tweaks
 
-| Apple original             | My tweak              |
+| Apple original             | My preference         |
 | :------------------------- | :-------------------- |
 | ⌘ space                    | ⌥ d                   |
