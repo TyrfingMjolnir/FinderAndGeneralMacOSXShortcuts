@@ -26,12 +26,12 @@ Finder and general MacOS X shortcuts
 | CMD + Shift + 3       | Save screenshot     | CMD + 4                 | View as gallery           |
 | CMD + Shift + OPT + 3 | Put ss on clipboard | CMD + OPT + S           | Hide sidebar              |
 | CMD + Shift + 4       | Save selection screenshot | CMD + OPT + T     | Hide toolbar              |
-| CMD + Shift + 4 then space | Save window ss |
-| CMD + Shift + OPT + 4 | Put ss on clipboard | CMD + CTRL + 0          | Use Groups                |
-| CMD + CTRL + OPT + 1    | Sort by Name       |
-| CMD + CTRL + OPT + 2    | Sort by Kind       |
-| CMD + CTRL + OPT + 3    | Sort by Date last opened       |
+| CMD + Shift + 4 then space | Save window ss | CMD + Shift + P         | Show preview              |
+| CMD + Shift + OPT + 4 | Put ss on clipboard | Space                   | Show preview              |
+| CMD + CTRL + OPT + 1    | Sort by Name      | CMD + CTRL + 0          | Use Groups                |
+| CMD + CTRL + OPT + 2    | Sort by Kind      |
+| CMD + CTRL + OPT + 3    | Sort by Date last opened |
 | CMD + CTRL + OPT + 4    | Sort by Date Added       |
-| CMD + CTRL + OPT + 5    | Sort by Date Modified       |
+| CMD + CTRL + OPT + 5    | Sort by Date Modified    |
 | CMD + CTRL + OPT + 6    | Sort by Size       |
 | CMD + CTRL + OPT + 7    | Sort by Tags       |
