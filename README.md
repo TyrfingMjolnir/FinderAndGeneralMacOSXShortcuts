@@ -47,7 +47,17 @@ These are the boot shortcuts
 | ⌥ ⌘ P R                    | Zap the PRAM          |
 | ⌥                          | Boot menu( unless you run systemd ) |
 | T                          | Target mode           |
-| R                          | Recovery mode         |
+| Shift                      | Safe mode             |
+| D                          | Diagnostics           |
+| N                          | Netboot               |
+| ⌘ R                        | Recovery mode         |
+| ⌘ S                        | Single user mode      |
+| ⌘ V                        | Verbose               |
+| ⏏                          | Eject media           |
+| F12                        | Eject media           |
+| Left mouse button          | Eject media           |
+| Left trackpad "button"     | Eject media           |
+| Left trackball button      | Eject media           |
 
 
 ## I usually remap
