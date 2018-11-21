@@ -28,6 +28,8 @@ Finder and general MacOS X shortcuts
 | CMD + Shift + 4       | Save selection screenshot | CMD + OPT + T     | Hide toolbar              |
 | CMD + Shift + 4 then space | Save window ss | CMD + Shift + P         | Show preview              |
 | CMD + Shift + OPT + 4 | Put ss on clipboard | Space                   | Show preview              |
+| CMD + Shift + 5       | Screenshot tools    |
+| CMD + Shift + 6       | Capture touch bar   |
 | CMD + CTRL + OPT + 1    | Sort by Name      | CMD + CTRL + 0          | Use Groups                |
 | CMD + CTRL + OPT + 2    | Sort by Kind      |
 | CMD + CTRL + OPT + 3    | Sort by Date last opened |
