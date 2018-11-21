@@ -21,6 +21,10 @@ Finder and general MacOS X shortcuts
 | CMD + Shift + A       | Applications        | CMD + E                 | Eject                     |
 | CMD + Shift + U       | Utilities           | CMD + F                 | Find                      |
 | CMD + Shift + G       | Go to folder ...    | CMD + 1                 | View as icons             |
-| CMD + K               | Connect ...         | CMD + 2                 | View as list              |
+| CMD + OPT + D         | Toggle dock         | CMD + 2                 | View as list              |
 | CMD + K               | Connect ...         | CMD + 3                 | View as columns           |
-| CMD + K               | Connect ...         | CMD + 4                 | View as gallery           |
+| CMD + Shift + 3       | Save screenshot     | CMD + 4                 | View as gallery           |
+| CMD + Shift + OPT + 3 | Put ss on clipboard       |
+| CMD + Shift + 4       | Save selection screenshot |
+| CMD + Shift + 4 then space | Save window ss |
+| CMD + Shift + OPT + 4 | Put ss on clipboard       |
