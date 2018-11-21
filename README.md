@@ -39,6 +39,15 @@ Finder and general MacOS X shortcuts
 | ^ ⌥ ⌘ 6              | Sort by Size        |
 | ^ ⌥ ⌘ 7              | Sort by Tags        |
 
+## At boot
+These are the boot shortcuts
+
+| Shortcut                   | Action                |
+| :------------------------- | :-------------------- |
+| ⌥ ⌘ P R                    | Zap the PRAM          |
+| ⌥                          | Boot menu( unless you run systemd ) |
+
+
 ## I usually remap
 My tweaks
 
