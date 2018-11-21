@@ -11,13 +11,13 @@ Finder and general MacOS X shortcuts
 | ▶                    | open folder         | ^ ⌘ N                 | New folder from selection |
 | ◀                    | close folder        | ⌘ T                   | New Finder tab            |
 | ⇧ ⌘ F                | Recents             | ⌘ P                   | Print                     |
-| ⇧ ⌘ O                | Documents           | ⌘ W                   | Close Finder window       |
+| ⇧ ⌘ O                | dOcuments           | ⌘ W                   | Close Finder window       |
 | ⇧ ⌘ D                | Desktop             | ⌘ I                   | Get info from selection   |
 | ⇧ ⌘ H                | Home folder         | ⌘ D                   | Duplicate selection       |
 | ⇧ ⌘ C                | Computer            | ^ ⌘ A                 | Make alias from selection |
-| ⇧ ⌘ R                | Airdrop             | ⌘ + Y                 | Quicklook selection       |
+| ⇧ ⌘ R                | aiRdrop             | ⌘ + Y                 | Quicklook selection       |
 | ⇧ ⌘ K                | Network             | ^ ⌥ ⌘ A               | Show original             |
-| ⇧ ⌘ I                | iCloud              | ^ ⌘ T                 | Add to sidebar            |
+| ⇧ ⌘ I                | Icloud              | ^ ⌘ T                 | Add to sidebar            |
 | ⇧ ⌘ A                | Applications        | ⌘ E                   | Eject                     |
 | ⇧ ⌘ U                | Utilities           | ⌘ F                   | Find                      |
 | ⇧ ⌘ G                | Go to folder ...    | ⌘ 1                   | View as icons             |
