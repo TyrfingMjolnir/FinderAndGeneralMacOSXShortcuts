@@ -6,10 +6,10 @@ Finder and general MacOS X shortcuts
 | ⌘ + [                | Back                | ⌘ + ,                 | Preferences               |
 | ⌘ + ]                | Forward             | ⌘ + ⇧ + ← | Empty Trash ...           |
 | ⌘ + O                | Open selection      | ⌘ + ←         | Move selection to Trash   |
-| ⌘ + Arrow down       | Open selection      | ⌘ + ⇧ + N         | Create new folder         |
-| ⌘ + Arrow up         | Go to parent folder | ⌘ + N                 | New Finder window         |
-| Arrow right          | open folder         | ⌘ + ^ + N          | New folder from selection |
-| Arrow left           | close folder        | ⌘ + T                 | New Finder tab            |
+| ⌘ + ▼                | Open selection      | ⌘ + ⇧ + N         | Create new folder         |
+| ⌘ + ▲                | Go to parent folder | ⌘ + N                 | New Finder window         |
+| ▶                    | open folder         | ⌘ + ^ + N          | New folder from selection |
+| ◀                    | close folder        | ⌘ + T                 | New Finder tab            |
 | ⌘ + ⇧ + F            | Recents             | ⌘ + P                 | Print                     |
 | ⌘ + ⇧ + O            | Documents           | ⌘ + W                 | Close Finder window       |
 | ⌘ + ⇧ + D            | Desktop             | ⌘ + I                 | Get info from selection   |
