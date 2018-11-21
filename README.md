@@ -46,6 +46,8 @@ These are the boot shortcuts
 | :------------------------- | :-------------------- |
 | ⌥ ⌘ P R                    | Zap the PRAM          |
 | ⌥                          | Boot menu( unless you run systemd ) |
+| T                          | Target mode           |
+| R                          | Recovery mode         |
 
 
 ## I usually remap
