@@ -1,5 +1,4 @@
-# FinderAndGeneralMacOSXShortcuts
-Finder and general MacOS X shortcuts
+# Finder and general MacOS X shortcuts
 
 | Shortcut             | Action              | Shortcut                | Action                    |
 | :------------------- | :------------------ | :---------------------- | :------------------------ |
