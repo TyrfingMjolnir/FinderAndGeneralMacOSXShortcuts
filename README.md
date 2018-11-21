@@ -8,7 +8,6 @@ Finder and general MacOS X shortcuts
 | CMD + Arrow up        | Go to parent folder |
 | Arrow right           | open folder |
 | Arrow left            | close folder |
-
 | CMD + Shift + F       | Recents |
 | CMD + Shift + O       | Documents |
 | CMD + Shift + D       | Desktop |
@@ -19,6 +18,5 @@ Finder and general MacOS X shortcuts
 | CMD + Shift + I       | iCloud |
 | CMD + Shift + A       | Applications |
 | CMD + Shift + U       | Utilities |
-
 | CMD + Shift + G       | Go to folder ... |
 | CMD + K               | Connect ... |
