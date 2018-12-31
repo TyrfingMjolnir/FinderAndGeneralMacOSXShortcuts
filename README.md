@@ -62,7 +62,7 @@ These are the boot shortcuts
 ## I usually remap
 My tweaks
 
-| Apple original             | My preference         |
-| :------------------------- | :-------------------- |
-| ⌘ space                    | ⌥ d                   |
-| ⌥ ⌘ space                  | ⌘ space               |
+| Apple original             | My preference         | Action                | 
+| :------------------------- | :-------------------- | :-------------------- |
+| ⌘ space                    | ⌥ d                   | Application launcher  |
+| ⌥ ⌘ space                  | ⌘ space               | Finder Search         |
