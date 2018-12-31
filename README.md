@@ -65,3 +65,4 @@ My tweaks
 | Apple original             | My preference         |
 | :------------------------- | :-------------------- |
 | ⌘ space                    | ⌥ d                   |
+| ⌥ ⌘ space                  | ⌘ space               |
