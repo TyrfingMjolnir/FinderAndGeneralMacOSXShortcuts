@@ -70,7 +70,7 @@ These are the boot shortcuts
 ## Apple XCode
 ### Inspector
 | Shortcut                   | Action                |
-| :------------------------- | :-------------------- |
+| -------------------------: | :-------------------- |
 | ⌥ ⌘ 0 | Toggle Inspector visibility |
 | ⌥ ⌘ 1 | File Inspector |
 | ⌥ ⌘ 2 | Quick Help |
@@ -83,7 +83,7 @@ These are the boot shortcuts
 
 ### Navigator
 | Shortcut                   | Action                |
-| :------------------------- | :-------------------- |
+| -------------------------: | :-------------------- |
 | ⌘ 0 | Toggle Navigator visibility |
 | ⌘ 1 | Project Navigator |
 | ⌘ 2 | Source Control Navigator |
@@ -97,6 +97,6 @@ These are the boot shortcuts
 
 
 | Shortcut                   | Action                |
-| :------------------------- | :-------------------- |
+| -------------------------: | :-------------------- |
 | ⌘ ⇧ L | Show Objects temporarily |
 | ⌥ ⌘ ⇧ L | Show Objects perpetually |
