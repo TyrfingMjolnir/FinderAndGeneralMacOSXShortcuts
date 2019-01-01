@@ -1,7 +1,7 @@
 # MacOS X shortcuts
 ## Finder
 | Shortcut             | Action              | Shortcut                | Action                    |
-| :------------------- | :------------------ | :---------------------- | :------------------------ |
+| -------------------: | :------------------ | ----------------------: | :------------------------ |
 | ⌘ [                  | Back                | ⌘ ,                   | Preferences               |
 | ⌘ ]                  | Forward             | ⇧ ⌘ ←                 | Empty Trash ...           |
 | ⌘ O                  | Open selection      | ⌘ ←                   | Move selection to Trash   |
@@ -42,7 +42,7 @@
 My tweaks
 
 | Apple original             | My preference         | Action                | 
-| :------------------------- | :-------------------- | :-------------------- |
+| -------------------------: | --------------------: | :-------------------- |
 | ⌘ space                    | ⌥ d                   | Application launcher  |
 | ⌥ ⌘ space                  | ⌘ space               | Finder Search         |
 
@@ -51,7 +51,7 @@ My tweaks
 These are the boot shortcuts
 
 | Shortcut                   | Action                |
-| :------------------------- | :-------------------- |
+| -------------------------: | :-------------------- |
 | ⌥ ⌘ P R                    | Zap the PRAM          |
 | ⌥                          | Boot menu( unless you run systemd ) |
 | T                          | Target mode           |
@@ -59,6 +59,7 @@ These are the boot shortcuts
 | D                          | Diagnostics           |
 | N                          | Netboot               |
 | ⌘ R                        | Recovery mode         |
+| ⌥ ⌘ R                        | Recovery mode         |
 | ⌘ S                        | Single user mode      |
 | ⌘ V                        | Verbose               |
 | ⏏                          | Eject media           |
