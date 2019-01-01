@@ -94,3 +94,9 @@ These are the boot shortcuts
 | ⌘ 7 | Debug Navigator |
 | ⌘ 8 | Breakpoint Navigator |
 | ⌘ 9 | Report Navigator |
+
+
+| Shortcut                   | Action                |
+| :------------------------- | :-------------------- |
+| ⌘ ⇧ L | Show Objects temporarily |
+| ⌥ ⌘ ⇧ L | Show Objects perpetually |
