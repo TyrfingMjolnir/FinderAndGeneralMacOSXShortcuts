@@ -71,7 +71,7 @@ These are the boot shortcuts
 ## Apple XCode
 ### Inspector
 | Shortcut                   | Action                | MacOS X |
-| -------------------------: | :-------------------- | :------ |
+| -------------------------: | :-------------------- | :-----: |
 | ⌥ ⌘ 0 | Toggle Inspector visibility |
 | ⌥ ⌘ 1 | File Inspector |
 | ⌥ ⌘ 2 | Quick Help |
