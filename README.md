@@ -70,8 +70,8 @@ These are the boot shortcuts
 
 ## Apple XCode
 ### Inspector
-| Shortcut                   | Action                |
-| -------------------------: | :-------------------- |
+| Shortcut                   | Action                | MacOS X |
+| -------------------------: | :-------------------- | :------ |
 | ⌥ ⌘ 0 | Toggle Inspector visibility |
 | ⌥ ⌘ 1 | File Inspector |
 | ⌥ ⌘ 2 | Quick Help |
@@ -79,8 +79,8 @@ These are the boot shortcuts
 | ⌥ ⌘ 4 | Attributes Inspector |
 | ⌥ ⌘ 5 | Size Inspector |
 | ⌥ ⌘ 6 | Connections Inspector |
-| ⌥ ⌘ 7 | Bindings Inspector ( MacOS X specific ) |
-| ⌥ ⌘ 8 | View Effect Inspector ( MacOS X specific ) |
+| ⌥ ⌘ 7 | Bindings Inspector | * |
+| ⌥ ⌘ 8 | View Effect Inspector | * |
 
 ### Navigator
 | Shortcut                   | Action                |
