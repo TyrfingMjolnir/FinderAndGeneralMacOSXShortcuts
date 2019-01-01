@@ -68,7 +68,7 @@ These are the boot shortcuts
 | Left trackball button      | Eject media           |
 
 ## Apple XCode
-
+### Inspector
 | Shortcut                   | Action                |
 | :------------------------- | :-------------------- |
 | ⌥ ⌘ 0 | Toggle Inspector visibility |
@@ -81,6 +81,7 @@ These are the boot shortcuts
 | ⌥ ⌘ 7 | Bindings Inspector ( MacOS X specific ) |
 | ⌥ ⌘ 8 | View Effect Inspector ( MacOS X specific ) |
 
+### Navigator
 | Shortcut                   | Action                |
 | :------------------------- | :-------------------- |
 | ⌘ 0 | Toggle Navigator visibility |
