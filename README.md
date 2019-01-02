@@ -1,4 +1,25 @@
 # MacOS X shortcuts
+## At boot
+These are the boot shortcuts
+
+| Shortcut                   | Action                |
+| -------------------------: | :-------------------- |
+| ⌥ ⌘ P R                    | Zap the PRAM          |
+| ⌥                          | Boot menu( unless you run systemd ) |
+| T                          | Target mode           |
+| Shift                      | Safe mode             |
+| D                          | Diagnostics           |
+| N                          | Netboot               |
+| ⌘ R                        | Recovery mode         |
+| ⌥ ⌘ R                        | Recovery mode         |
+| ⌘ S                        | Single user mode      |
+| ⌘ V                        | Verbose               |
+| ⏏                          | Eject media           |
+| F12                        | Eject media           |
+| Left mouse button          | Eject media           |
+| Left trackpad "button"     | Eject media           |
+| Left trackball button      | Eject media           |
+
 ## Finder
 | Shortcut             | Action              | Shortcut                | Action                    |
 | -------------------: | :------------------ | ----------------------: | :------------------------ |
@@ -45,26 +66,3 @@ My tweaks
 | -------------------------: | --------------------: | :-------------------- |
 | ⌘ space                    | ⌥ d                   | Application launcher  |
 | ⌥ ⌘ space                  | ⌘ space               | Finder Search         |
-
-
-## At boot
-These are the boot shortcuts
-
-| Shortcut                   | Action                |
-| -------------------------: | :-------------------- |
-| ⌥ ⌘ P R                    | Zap the PRAM          |
-| ⌥                          | Boot menu( unless you run systemd ) |
-| T                          | Target mode           |
-| Shift                      | Safe mode             |
-| D                          | Diagnostics           |
-| N                          | Netboot               |
-| ⌘ R                        | Recovery mode         |
-| ⌥ ⌘ R                        | Recovery mode         |
-| ⌘ S                        | Single user mode      |
-| ⌘ V                        | Verbose               |
-| ⏏                          | Eject media           |
-| F12                        | Eject media           |
-| Left mouse button          | Eject media           |
-| Left trackpad "button"     | Eject media           |
-| Left trackball button      | Eject media           |
-
