@@ -31,6 +31,6 @@
 | -------------------------: | :-------------------- |:-------------------- |
 | ⌘ ⇧ L | Show Objects temporarily | |
 | ⌥ ⌘ ⇧ L | Show Objects perpetually | |
-| ^ ⌥ ⌘ P | Pattern search. Access by pressing the key combo in Find in Workspace field. |  You could add Any character or word pattern and mix and match multiple. Handy if you stick with name conventions. |
+| ^ ⌥ ⌘ P | Pattern search. | Access by pressing the key combo in Find in Workspace field. You could add Any character or word pattern and mix and match multiple. Handy if you stick with name conventions. |
 
 
