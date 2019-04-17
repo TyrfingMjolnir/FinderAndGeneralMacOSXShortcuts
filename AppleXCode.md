@@ -31,3 +31,6 @@
 | -------------------------: | :-------------------- |
 | ⌘ ⇧ L | Show Objects temporarily |
 | ⌥ ⌘ ⇧ L | Show Objects perpetually |
+
+
+pattern search. Access it by pressing CTRL + alt + cmd + P in Find In Workspace field. You could add Any character or word pattern and mix and match multiple. Handy if you stick with name conventions.
