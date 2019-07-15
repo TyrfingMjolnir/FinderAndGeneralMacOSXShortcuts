@@ -29,6 +29,7 @@
 
 | Shortcut                   | Action                | Comment                |
 | -------------------------: | :-------------------- |:-------------------- |
+| ^ ⌘ R | Run without building | Sometimes during development, it can be useful to run the same build again, without rebuilding to quickly test the app in given states.  |
 | ⌘ ⇧ L | Show Objects temporarily | |
 | ⌥ ⌘ ⇧ L | Show Objects perpetually | |
 | ^ ⌥ ⌘ P | Pattern search. | Access by pressing the key combo in Find in Workspace field. You could add Any character or word pattern and mix and match multiple. Handy if you stick with name conventions. |
