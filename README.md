@@ -53,7 +53,7 @@ These are the boot shortcuts
 | ⇧ ⌘ 6                | Capture touch bar   |
 | ^ ⌥ ⌘ 1              | Sort by Name        | ^ ⌘ 0                 | Use Groups                |
 | ^ ⌥ ⌘ 2              | Sort by Kind        |
-| ^ ⌥ ⌘ 3              | Sort by Date last opened | ^ ⌥ ⌘ V                 | Paste in stealth( paste in the same style as the text you are pasting into )                |
+| ^ ⌥ ⌘ 3              | Sort by Date last opened | ⇧ ⌥ ⌘ V                 | Paste in stealth( paste in the same style as the text you are pasting into )                |
 | ^ ⌥ ⌘ 4              | Sort by Date Added  |
 | ^ ⌥ ⌘ 5              | Sort by Date Modified    |
 | ^ ⌥ ⌘ 6              | Sort by Size        |
