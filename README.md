@@ -67,4 +67,6 @@ My tweaks
 | ⌘ space                    | ⌥ d                   | Application launcher  |
 | ⌥ ⌘ space                  | ⌘ space               | Finder Search         |
 
+### Remapping in the MacOS X GUI to accomodate vim and Das Keyboard BADASS 4( One of my favorite keyboards after Apple Extended Keyboard II )
+
 ![bilde](https://github.com/TyrfingMjolnir/FinderAndGeneralMacOSXShortcuts/assets/4602183/78835186-c003-42de-9993-f4c18f3b1836)
