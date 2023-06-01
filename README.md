@@ -66,3 +66,5 @@ My tweaks
 | -------------------------: | --------------------: | :-------------------- |
 | ⌘ space                    | ⌥ d                   | Application launcher  |
 | ⌥ ⌘ space                  | ⌘ space               | Finder Search         |
+
+![bilde](https://github.com/TyrfingMjolnir/FinderAndGeneralMacOSXShortcuts/assets/4602183/78835186-c003-42de-9993-f4c18f3b1836)
